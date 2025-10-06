@@ -16,27 +16,31 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: amirmahdi.namjoo1@gmail.com
+  email: m.p.bashari@gmail.com
 
 
   
   contact_links:
     - icon: building-columns
       icon_pack: fas
-      link: mailto:namjoo@umd.edu
-      name: amirmahdi.namjoo@sharif.edu
+      link: mailto:parsa.bashari@sharif.edu
+      name: parsa.bashari@sharif.edu
+    - icon: building-columns
+      icon_pack: fas
+      link: mailto:mbashari@bsc.es
+      name: mbashari@bsc.es
     - icon: github
       icon_pack: fab
-      name: GitHub (titansarus)
-      link: 'https://github.com/titansarus'
+      name: parsabsh
+      link: 'https://github.com/parsabsh'
     - icon: linkedin
       icon_pack: fab
-      name: LinkedIn
-      link: 'https://www.linkedin.com/in/amirmahdi-namjoo-23b4b9192/'
+      name: parsabsh
+      link: 'https://www.linkedin.com/in/parsabsh/'
     - icon: telegram
       icon_pack: fab
-      name: Telegram
-      link: 'https://t.me/amir_astrophysics'
+      name: ParsaBashari
+      link: 'https://t.me/ParsaBashari'
 
 design:
   columns: '2'

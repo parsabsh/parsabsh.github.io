@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Amirmahdi Namjoo
+title: Parsa Bashari
 
 # Full name (for SEO)
-first_name: Amirmahdi
-last_name: Namjoo
+first_name: Parsa
+last_name: Bashari
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,25 +18,27 @@ organizations:
     url:  "https://sharif.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer security and privacy, high performance computing, operating systems, computer architecture, and software engineering.
+bio: My research interest includes Computer Architecture, Domain-Specific Accelerators, Processing-in-Memeory, Machine Learning, and Bioinformatics.
 
 # Interests to show in About widget
 interests:
-  - Computer Security and Privacy
-  - High Performance Computing
-  - Operating Systems
   - Computer Architecture
-  - Software Engineering
+  - Domain-Specific Accelerators
+  - Processing-in-Memory
+  - Sparse Tensor Algebra
+  - Machine Learning
+  - Bioinformatics
 
 # Education to show in About widget
 education:
   courses:
     - course: Bachelor of Science in Computer Engineering
       institution: Sharif University of Technology
-      year: Fall 2018 - July 2023
-    - course: High School Diploma in Mathematics and Physics
-      institution: Shahid Beheshti NODET (SAMPAD) High School
-      year: Fall 2014 - Spring 2018
+      year: Fall 2021 - Present
+      GPA: 19.31 out of 20
+    # - course: High School Diploma in Mathematics and Physics
+    #   institution: Kamal High School
+    #   year: Fall 2014 - Spring 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -46,20 +48,19 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-
   - icon: github
     icon_pack: fab
-    link: https://github.com/titansarus
+    link: https://github.com/parsabsh
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/amirmahdi-namjoo-23b4b9192/
+    link: https://www.linkedin.com/in/parsabsh/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/CV_Parsa_Bashari.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -68,6 +69,6 @@ email: ''
 highlight_name: true
 ---
 
-I graduated from Sharif University of Technology with a Bachelor of Science in Computer Engineering and will be a Ph.D. Student in Computer Science at the University of Maryland from Winter 2023. I am interested in computer security and privacy, high-performance computing, operating systems, and computer architecture.
+As a last-year undergraduate student in Computer Engineering at Sharif University of Technology, my research lies where computer architecture meets other scientific domains like machine learning, graph processing, tensor algebra, or bioinformatics.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé.{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/CV_Parsa_Bashari.pdf" "newtab" >}}resumé.{{< /staticref >}}

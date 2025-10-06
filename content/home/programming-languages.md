@@ -7,7 +7,7 @@ widget: features
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 50
 
 title: Languages
 subtitle:
@@ -24,37 +24,25 @@ feature:
     icon_pack: "custom"
     name: "C++"
 
-
   - icon: "python"
     icon_pack: "custom"
     name: "Python"
-
-
-  - icon: "go"
-    icon_pack: "custom"
-    name: Go
-
 
   - icon: "java"
     icon_pack: "custom"
     name: Java
 
-  - icon: "js"
-    icon_pack: "custom"
-    name: Javascript
-
-  - icon: "php"
-    icon_pack: "custom"
-    name: Php
-
-    
-  - icon: "r"
-    icon_pack: "custom"
-    name: R
-
   - icon: "verilog"
     icon_pack: "custom"
     name: Verilog
+
+  - icon: "ASM"
+    icon_pack: "custom"
+    name: x86, MIPS, and IBM360 Assembly
+
+  - icon: "Bash"
+    icon_pack: "custom"
+    name: Bash
 
   - icon: "latex"
     icon_pack: "custom"

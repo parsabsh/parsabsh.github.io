@@ -7,7 +7,7 @@ widget: features
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 51
 
 title: Tools and Technologies
 subtitle:
@@ -16,36 +16,37 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - icon: "docker"
+  - icon: "cuda"
     icon_pack: "custom"
-    name: "Docker"
+    name: Nvidia CUDA
+
+  - icon: "OpenMP"
+    icon_pack: "custom"
+    name: OpenMP
+
+  - icon: "modelsim"
+    icon_pack: "custom"
+    name: ModelSim
+
+  - icon: "sysnopsys"
+    icon_pack: "custom"
+    name: Synopsys Design Compiler
+
+  - icon: "Cadence"
+    icon_pack: "custom"
+    name: Cadence SoC Encounter
+
+  - icon: "ISE"
+    icon_pack: "custom"
+    name: Xilinx ISE
 
   - icon: "linux"
     icon_pack: "custom"
     name: "Linux"
 
-
   - icon: "git"
     icon_pack: "custom"
     name: "Git"
-
-
-  - icon: "jenkins"
-    icon_pack: "custom"
-    name: Jenkins
-
-
-  - icon: "django"
-    icon_pack: "custom"
-    name: Django
-
-  - icon: "symfony"
-    icon_pack: "custom"
-    name: symfony
-
-  - icon: "react"
-    icon_pack: "custom"
-    name: React
 
   - icon: "mysql"
     icon_pack: "custom"
@@ -55,18 +56,6 @@ feature:
     icon_pack: "custom"
     name: PostgreSQL
 
-  - icon: "mongodb"
-    icon_pack: "custom"
-    name: MongoDB
-
-  - icon: "elasticsearch"
-    icon_pack: "custom"
-    name: Elasticsearch
-
-  - icon: "kibana"
-    icon_pack: "custom"
-    name: Kibana
-
   - icon: "pytorch"
     icon_pack: "custom"
     name: PyTorch
@@ -75,17 +64,6 @@ feature:
     icon_pack: "custom"
     name: TensorFlow
 
-  - icon: "cuda"
-    icon_pack: "custom"
-    name: Nvidia CUDA
-
-  - icon: "raspberry"
-    icon_pack: "custom"
-    name: Raspberry Pi
-
-  - icon: "arduino"
-    icon_pack: "custom"
-    name: Arduino
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
