@@ -25,7 +25,7 @@ experience:
   - title: Junior Researcher
     company: Barcelona Supercomputing Center
     company_url: 'https://bsc.es'
-    company_logo: BSC-blue
+    company_logo: BSC
     location: Barcelona, Spain
     date_start: '2025-08-01'
     description: |2-
