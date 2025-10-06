@@ -25,7 +25,7 @@ experience:
   - title: Ranked 28st
     company: Nationwide University Entrance Exam (Konkur) in Mathematics
     company_url: ''
-    company_logo: 
+    company_logo: konkur
     location: Iran
     date_start: '2021-06-01'
     description: |2-
