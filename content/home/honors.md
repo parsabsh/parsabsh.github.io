@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 21
 
 title: Honors and Awards
 subtitle:
