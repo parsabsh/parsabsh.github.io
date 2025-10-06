@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 51
+weight: 90
 
 title: Extracurricular Experience
 subtitle:

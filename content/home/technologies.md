@@ -7,7 +7,7 @@ widget: features
 headless: true
 
 # Order that this section appears on the page.
-weight: 51
+weight: 81
 
 title: Tools and Technologies
 subtitle:
@@ -28,7 +28,7 @@ feature:
     icon_pack: "custom"
     name: ModelSim
 
-  - icon: "sysnopsys"
+  - icon: "synopsys"
     icon_pack: "custom"
     name: Synopsys Design Compiler
 

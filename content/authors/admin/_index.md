@@ -58,9 +58,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/CV_Parsa_Bashari.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/CV_Parsa_Bashari.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -71,4 +71,4 @@ highlight_name: true
 
 As a last-year undergraduate student in Computer Engineering at Sharif University of Technology, my research lies where computer architecture meets other scientific domains like machine learning, graph processing, tensor algebra, or bioinformatics.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/CV_Parsa_Bashari.pdf" "newtab" >}}resumé.{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Parsa_Bashari.pdf" "newtab" >}}resumé.{{< /staticref >}}
