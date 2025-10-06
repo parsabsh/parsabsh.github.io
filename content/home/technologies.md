@@ -7,7 +7,7 @@ widget: features
 headless: true
 
 # Order that this section appears on the page.
-weight: 51
+weight: 80
 
 title: Tools and Technologies
 subtitle:
