@@ -28,7 +28,7 @@ experience:
     company_logo: BSC-blue
     location: Barcelona, Spain
     date_start: '2025-08-01'
-    date_end: 'Present'
+    date_end: 
     decsription: |2-
         * _Computer Architecture for Parallel Paradagms (CAPP)_ group
         * Under supervison of Prof. Osman Unsal and Prof. Adrian Cristal
