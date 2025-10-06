@@ -36,10 +36,6 @@ feature:
     icon_pack: "custom"
     name: Cadence SoC Encounter
 
-  - icon: "ISE"
-    icon_pack: "custom"
-    name: Xilinx ISE
-
   - icon: "linux"
     icon_pack: "custom"
     name: "Linux"
