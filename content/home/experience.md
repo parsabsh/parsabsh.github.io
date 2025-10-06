@@ -44,7 +44,9 @@ experience:
         * _High-Performance Computing Architecture and Network (HPCAN)_ group
         * Under supervison of Prof. Hamid Sarbazi-Azad
         * Worked on tiling in sparse tensor algebra acceleration (collaborating with Dr. Hajar Falahati & Dr. Negin Mahani).
-        * Contributed to two other projects: (1) _CSA-PIM_: Exploiting carry-save adder to reduce shift operations in Processing-in-Memory systems based on DRAM (collaborating with Dr. Nezam Rohbani); and (2) _Fullex_: Improving the representation of sparse tensors to reduce the number of intermediate matrices in outer-product-based matrix multiplication.
+        * Contributed to two other projects: 
+            1) _CSA-PIM:_ Exploiting carry-save adder to reduce shift operations in Processing-in-Memory systems based on DRAM (collaborating with Dr. Nezam Rohbani)
+            2) _Fullex:_ Improving the representation of sparse tensors to reduce the number of intermediate matrices in outer-product-based matrix multiplication.
 
 
 design:
