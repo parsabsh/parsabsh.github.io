@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 21
+weight: 50
 
 title: Honors and Awards
 subtitle:
@@ -28,6 +28,7 @@ experience:
     company_logo: konkur
     location: Iran
     date_start: '2021-06-01'
+    date_end: '2021-06-01'
     description: |2-
         * Ranked 28<sup>th</sup> out of 126,740 students (**top 0.02%**)
 
