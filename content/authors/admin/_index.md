@@ -35,10 +35,11 @@ education:
     - course: Bachelor of Science in Computer Engineering
       institution: Sharif University of Technology
       year: Fall 2021 - Present
-      GPA: 19.31 out of 20
-    # - course: High School Diploma in Mathematics and Physics
-    #   institution: Kamal High School
-    #   year: Fall 2014 - Spring 2018
+      Description: '**GPA 19.31** out of 20'
+    - course: High School Diploma in Mathematics and Physics
+      institution: Kamal High School
+      year: Fall 2016 - Spring 2021
+      Description: * **GPA 19.31** out of 20
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
