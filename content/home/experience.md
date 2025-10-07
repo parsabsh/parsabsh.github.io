@@ -30,7 +30,7 @@ experience:
     date_start: '2025-08-01'
     description: |2-
         * _Computer Architecture for Parallel Paradagms (CAPP)_ group.
-        * Under supervison of [Prof. Osman Unsal](https://scholar.google.com/citations?user=6JU2JSMAAAAJ&hl=en) and [Prof. Adrian Cristal](https://scholar.google.com/citations?user=JT3D9JQAAAAJ&hl=en).
+        * Under supervison of <a href="https://scholar.google.com/citations?user=6JU2JSMAAAAJ&hl=en", target="_blank">Prof. Osman Unsal</a> and <a href="https://scholar.google.com/citations?user=JT3D9JQAAAAJ&hl=en", target="_blank">Prof. Adrian Cristal</a>.
         * Working on the implementation of a dedicated hardware unit for efficient execution of our proposed tiling algorithm for sparse tensor algebra acceleration.
     
   - title: Research Assistant
