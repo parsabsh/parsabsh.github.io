@@ -30,7 +30,7 @@ experience:
     date_start: '2022-09-01'
     date_end: '2025-06-30'
     description: |2-
-        * **Computer Architecture** (3x<sup>*</sup>) -- Dr. Laleh Arshadi 
+        * **Computer Architecture** (3x)<sup>*</sup> -- Dr. Laleh Arshadi 
         * **Machine Learning** -- Dr. Ali Sharifi-Zarchi
         * **Computer Networks** -- Dr. Kambiz Mizanian
         * **Artificial Intelligence** (2x) -- Dr. Mohammad Hossein Rohban
@@ -43,7 +43,7 @@ experience:
         * **Advanced Programming in Java** -- Dr. Mohammad Amin Fazli
         * **Fundamentals of Programming in C** -- Dr. Mohammad Amin Fazli
         * **Fundamentals of Programming in Python** -- Dr. Iman Khani Jazani <br>
-        <sup>*</sup>three semesters
+      <sup>*</sup> three semesters
 
 
 design:
