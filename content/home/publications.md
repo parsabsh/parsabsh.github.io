@@ -16,7 +16,8 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - publication
+      - Smartile
+      - Fullex
     tag: ''
     category: ''
     publication_type: ''
