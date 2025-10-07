@@ -28,10 +28,10 @@ experience:
     company_logo: BSC
     location: Barcelona, Spain
     date_start: '2025-08-01'
-    description: |2-
-        * _Computer Architecture for Parallel Paradagms (CAPP)_ group.
-        * Under supervison of <a href="https://scholar.google.com/citations?user=6JU2JSMAAAAJ&hl=en">Prof. Osman Unsal</a> and <a href="https://scholar.google.com/citations?user=JT3D9JQAAAAJ&hl=en">Prof. Adrian Cristal</a>.
-        * Working on the implementation of a dedicated hardware unit for efficient execution of our proposed tiling algorithm for sparse tensor algebra acceleration.
+    description: |
+      * _Computer Architecture for Parallel Paradigms (CAPP)_ group.
+      * Under supervision of <a href="https://scholar.google.com/citations?user=6JU2JSMAAAAJ&hl=en">Prof. Osman Unsal</a> and <a href="https://scholar.google.com/citations?user=JT3D9JQAAAAJ&hl=en">Prof. Adrian Cristal</a>.
+      * Working on the implementation of a dedicated hardware unit for efficient execution of our proposed tiling algorithm for sparse tensor algebra acceleration.
     
   - title: Research Assistant
     company: Sharif University of Technology
@@ -40,14 +40,13 @@ experience:
     location: Tehran, Iran
     date_start: '2023-07-01'
     date_end: '2025-06-30'
-    description: |2-
-        * _High-Performance Computing Architecture and Network (HPCAN)_ group.
-        * Under supervison of <a href="https://scholar.google.com/citations?user=9OHC9AsAAAAJ&hl=en">Prof. Hamid Sarbazi-Azad</a>.
-        * Worked on tiling in sparse tensor algebra acceleration (collaborating with <a href="https://scholar.google.com/citations?user=gm3mlIoAAAAJ&hl=en">Dr. Hajar Falahati</a> and <a href="https://scholar.google.com/citations?user=S04ZY-cAAAAJ&hl=en">Dr. Negin Mahani</a>).
-        * Contributed to two other projects: 
-          1. _CSA-PIM:_ Exploiting carry-save adder to reduce shift operations in Processing-in-Memory systems based on DRAM (collaborating with <a href="https://scholar.google.com/citations?user=l545NMoAAAAJ&hl=en">Dr. Nezam Rohbani</a>).
-          2. _Fullex:_ Improving the representation of sparse tensors to reduce the number of intermediate matrices in outer-product-based matrix multiplication.
-
+    description: |
+      * _High-Performance Computing Architecture and Network (HPCAN)_ group.
+      * Under supervision of <a href="https://scholar.google.com/citations?user=9OHC9AsAAAAJ&hl=en">Prof. Hamid Sarbazi-Azad</a>.
+      * Worked on tiling in sparse tensor algebra acceleration (collaborating with <a href="https://scholar.google.com/citations?user=gm3mlIoAAAAJ&hl=en">Dr. Hajar Falahati</a> and <a href="https://scholar.google.com/citations?user=S04ZY-cAAAAJ&hl=en">Dr. Negin Mahani</a>).
+      * Contributed to two other projects:
+        1. _CSA-PIM:_ Exploiting carry-save adder to reduce shift operations in Processing-in-Memory systems based on DRAM (collaborating with <a href="https://scholar.google.com/citations?user=l545NMoAAAAJ&hl=en">Dr. Nezam Rohbani</a>).
+        2. _Fullex:_ Improving the representation of sparse tensors to reduce the number of intermediate matrices in outer-product-based matrix multiplication.
 
 design:
   columns: '2'
