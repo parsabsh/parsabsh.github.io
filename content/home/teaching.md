@@ -42,7 +42,7 @@ experience:
         * **Engineering Probability and Statistics** -- Dr. Amir Najafi
         * **Advanced Programming in Java** -- Dr. Mohammad Amin Fazli
         * **Fundamentals of Programming in C** -- Dr. Mohammad Amin Fazli
-        * **Fundamentals of Programming in Python** -- Dr. Iman Khani Jazani
+        * **Fundamentals of Programming in Python** -- Dr. Iman Khani Jazani <br>
         <sup>*</sup>three semesters
 
 
